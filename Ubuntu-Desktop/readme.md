@@ -33,10 +33,6 @@ sudo apt-get install ubuntu-desktop
 sudo apt-get install xrdp
 ```
 6. Mod cổng 53579 và bỏ cổng 22 mặc định
-```
-npm install -g @hyperlane-xyz/cli
-```
-
 Note: Nếu vẫn muốn sài cổng 22 thì không cần chạy cái này chỉ cần chạy lênh phía trên xong thì reboot lại.
 
 ```
