@@ -4,10 +4,7 @@
 sudo apt-get update && sudo apt-get upgrade -y
 ```
 
-2. Cài Docker
-```
-sudo apt-get install docker.io -y
-```
+2. 
 3. Add user
 ```
 adduser petertran
