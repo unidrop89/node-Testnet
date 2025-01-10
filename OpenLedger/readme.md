@@ -1,3 +1,7 @@
+Cầu hình máy:
+- CPU 2 core
+- Ram 4GB
+- Linux ubuntu 22.04
 
 1. Update
 
